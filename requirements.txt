@@ -1,0 +1,41 @@
+# ============================================================
+# REQUIREMENTS — All 5 DS Projects for Freshers 2025
+# Install all: pip install -r requirements.txt
+# ============================================================
+
+# ---- Project 1: Churn Prediction ----
+xgboost>=2.0.0
+shap>=0.44.0
+mlflow>=2.10.0
+streamlit>=1.32.0
+scikit-learn>=1.4.0
+pandas>=2.1.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+
+# ---- Project 2: YOLOv8 Object Detection ----
+ultralytics>=8.1.0
+opencv-python>=4.9.0
+fastapi>=0.110.0
+uvicorn>=0.27.0
+python-multipart>=0.0.9
+
+# ---- Project 3: BERT Sentiment ----
+transformers>=4.38.0
+torch>=2.2.0
+datasets>=2.18.0
+evaluate>=0.4.0
+gradio>=4.20.0
+accelerate>=0.27.0
+
+# ---- Project 4: RAG Assistant ----
+langchain>=0.1.12
+langchain-community>=0.0.28
+chromadb>=0.4.24
+pypdf>=4.1.0
+sentence-transformers>=2.5.0
+
+# ---- Project 5: Data Agent ----
+smolagents>=0.1.0
+plotly>=5.19.0
+huggingface_hub>=0.21.0
