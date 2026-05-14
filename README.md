@@ -122,4 +122,4 @@ python data_agent.py eda data.csv # Quick EDA on any CSV
 
 ---
 
-*Built for PyTech Coder — 2025 DS Fresher Guide*
+*Built for PyTech Coder — 2026 DS Fresher Guide*
